@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://synthbase.online/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Synthbase Online"
+[taxonomies]
+  device = "devices"  # subclass of https://schema.org/Product
+  manufacturer = "manufacturers"  # sameas https://schema.org/manufacturer
+  brand = "brands"  #sameas https://schema.org/Brand
