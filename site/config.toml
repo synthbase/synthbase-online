@@ -1,6 +1,7 @@
 baseURL = "http://synthbase.online/"
 languageCode = "en-us"
 title = "Synthbase Online"
+theme = "synthbase"
 [taxonomies]
   device = "devices"  # subclass of https://schema.org/Product
   manufacturer = "manufacturers"  # sameas https://schema.org/manufacturer
