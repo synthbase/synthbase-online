@@ -27,5 +27,5 @@ offers: # https://schema.org/offers
     url: https://www.sweetwater.com/store/detail/Minilogue--korg-minilogue-4-voice-analog-synthesizer
 ---
 
-# **I want the title here but the template blows up**
+_Thoughtful description..._
 

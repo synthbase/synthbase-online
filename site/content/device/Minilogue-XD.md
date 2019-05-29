@@ -43,5 +43,4 @@ offers: # https://schema.org/offers
     url: https://www.chucklevins.com/products/korg-minilogue-xd-37-key-polyphonic-analog-synthesizer # https://schema.org/url
 ---
 
-# **I want the title here but the template blows up**
-
+_Thoughtful description..._

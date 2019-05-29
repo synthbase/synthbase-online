@@ -27,5 +27,4 @@ offers:
     url: https://www.sweetwater.com/store/detail/MinilogueXDm--korg-minilogue-xd-4-voice-analog-synthesizer-module
 ---
 
-# **I want the title here but the template blows up**
-
+_Thoughtful description..._

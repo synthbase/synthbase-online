@@ -27,5 +27,5 @@ offers: # https://schema.org/offers
     url: # https://schema.org/url
 ---
 
-# **I want the title here but the template blows up**
+_Thoughtful description..._
 

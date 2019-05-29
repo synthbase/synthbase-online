@@ -27,5 +27,4 @@ offers: # https://schema.org/offers
     url: https://www.sweetwater.com/store/detail/MonologueSV--korg-monologue-analog-synthesizer-silver
 ---
 
-# **I want the title here but the template blows up**
-
+_Thoughtful description..._
