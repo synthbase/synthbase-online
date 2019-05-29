@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devices on Synthbase Online</title>
+    <link>http://synthbase.online/device/</link>
+    <description>Recent content in Devices on Synthbase Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 14:46:19 -0400</lastBuildDate>
+    
+	<atom:link href="http://synthbase.online/device/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monologue</title>
+      <link>http://synthbase.online/device/monologue/</link>
+      <pubDate>Sun, 26 May 2019 14:46:19 -0400</pubDate>
+      
+      <guid>http://synthbase.online/device/monologue/</guid>
+      <description>Korg&amp;rsquo;s baseline analog monosynth</description>
+    </item>
+    
+    <item>
+      <title>Minilogue</title>
+      <link>http://synthbase.online/device/minilogue/</link>
+      <pubDate>Sun, 26 May 2019 14:45:53 -0400</pubDate>
+      
+      <guid>http://synthbase.online/device/minilogue/</guid>
+      <description>The original Minilogue, first synth of the stars!</description>
+    </item>
+    
+    <item>
+      <title>Minilogue XD Module</title>
+      <link>http://synthbase.online/device/minilogue-xd-module/</link>
+      <pubDate>Sun, 26 May 2019 14:45:46 -0400</pubDate>
+      
+      <guid>http://synthbase.online/device/minilogue-xd-module/</guid>
+      <description>A desktop version of the Minilogue XD</description>
+    </item>
+    
+    <item>
+      <title>Minilogue XD</title>
+      <link>http://synthbase.online/device/minilogue-xd/</link>
+      <pubDate>Sun, 26 May 2019 14:31:51 -0400</pubDate>
+      
+      <guid>http://synthbase.online/device/minilogue-xd/</guid>
+      <description>An update to the successful Minilogue that adds Prologue-style oscilators.</description>
+    </item>
+    
+  </channel>
+</rss>
