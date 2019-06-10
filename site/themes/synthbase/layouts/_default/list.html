@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-<html>
-<body>
+{{ partial "header.html" . }}
+
   <ul>
     {{ range .Data.Pages }}
     <li><a href={{ .Permalink }}>{{ .Title }}</a></li>
   {{ end }}
 </ul>
-</body>
-</html>
+
+{{ partial "footer.html" . }}
