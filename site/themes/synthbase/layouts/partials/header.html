@@ -8,5 +8,11 @@
         <a href="/">Home</a>
         <a href="/device/">Devices</a>
         <a href="/manufacturer/">Manufacturers</a>
-        <a href="/about/">About</a>
+        <!-- This should always include the About page -->
+        <!-- But "About" only appears on the homepage... -->
+        {{ range .Data.Pages }}
+            {{ if eq .Type "page" }}
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ end }}
+        {{ end }}
     </nav>
